@@ -12,7 +12,6 @@ I like on-device AI/ML, synthetic datasets, local-first software, reverse engine
 
 blog posts:
 > [Reverse Engineering Arizona's Mobile ID App](https://getpulsyn.com/blog/reverse-engineering-arizona-mobile-id)
- [How Pulsyn Calculates Your Sleep Score: A 
-> Transparent Look at Our Algorithm](https://getpulsyn.com/blog/sleep-score-calculation)
+> [How Pulsyn Calculates Your Sleep Score: A Transparent Look at Our Algorithm](https://getpulsyn.com/blog/sleep-score-calculation)
 
 pulsyn: james@getpulsyn.com, personal: james@hffmnn.com or x: [@hffmnnj](https://x.com/hffmnnj)

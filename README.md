@@ -6,7 +6,7 @@ Is it even important to talk about languages here anymore?
 
 current:
 > [pulsyn](https://getpulsyn.com): smart ring, no subscription, on-device ai. shipping q3 2026.
-> [elefant](https://github.com/pulsynlabs/elefant): agent platform with hook-enforced behavioral guardrails.
+>  [elefant](https://github.com/pulsynlabs/elefant): agent platform with hook-enforced behavioral guardrails.
 
 I like on-device AI/ML, synthetic datasets, local-first software, reverse engineering, health data privacy, and the fact that most "ai agents" are just an api with extra steps.
 

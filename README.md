@@ -1,6 +1,6 @@
 Building privacy-first hardware and the agent platform to match. <img src="https://github.com/pulsynlabs.png" width="16" height="16"> [@pulsynlabs](https://github.com/pulsynlabs)
 
-22 y/o in AZ. prev ran HCGames/MineXO, the largest minecraft servers in their domain as a teen (2000/800 concurrent players)
+22 y/o in AZ. prev ran HCGames/MineXO (2000/800 concurrent players), some of the largest minecraft servers in their sub-genres as a teen
 
 Is it even important to talk about languages here anymore? 
 

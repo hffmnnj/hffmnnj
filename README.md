@@ -2,11 +2,10 @@ Building privacy-first hardware and the agent platform to match. <img src="https
 
 22 y/o in AZ. prev ran HCGames/MineXO (2000/800 concurrent players), some of the largest minecraft servers in their sub-genres as a teen
 
-Is it even important to talk about languages here anymore? 
-
+fav stack: <img src="https://cdn.simpleicons.org/rust/000000" width="14" height="14"> **Rust** / <img src="https://cdn.simpleicons.org/typescript/3178C6" width="14" height="14"> **TypeScript** are my go-to coding languages. <img src="https://cdn.simpleicons.org/svelte/FF3E00" width="14" height="14"> **Svelte** is my go-to web framework. <img src="https://cdn.simpleicons.org/flutter/02569B" width="14" height="14"> **Flutter** / <img src="https://cdn.simpleicons.org/dart/0175C2" width="14" height="14"> **Dart** is my mobile stack. <img src="https://cdn.simpleicons.org/python/3776AB" width="14" height="14"> **Python** is for ML/AI experiments. <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="14" height="14"> **Arch Linux** btw.
 current:
 - [pulsyn](https://getpulsyn.com): smart ring, no subscription, on-device ai. shipping q3 2026.
--  [elefant](https://github.com/pulsynlabs/elefant): agent platform with hook-enforced behavioral guardrails.
+- [elefant](https://github.com/pulsynlabs/elefant): agent platform by Pulsyn, designed to be visual and interactive with hook-enforced behavioral guardrails.
 
 I like on-device AI/ML, synthetic datasets, local-first software, reverse engineering, health data privacy, and the fact that most "ai agents" are just an api with extra steps.
 

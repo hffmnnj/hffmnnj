@@ -1,4 +1,4 @@
-Building privacy-first hardware and the agent platform to match. <img src="https://github.com/pulsyntech.png" width="16" height="16"> [@pulsyntech](https://github.com/pulsyntech)
+I’m building a smart ring called Pulsyn. On-device health AI that doesn’t mine your data. Free to see your own metrics. Subscription only for the features that earn it. <img src="https://github.com/pulsyntech.png" width="16" height="16"> [@pulsyntech](https://github.com/pulsyntech)
 
 22 y/o in AZ. prev ran HCGames/MineXO, some of the largest minecraft servers in their sub-genres as a teen
 
